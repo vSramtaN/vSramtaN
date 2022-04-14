@@ -20,9 +20,9 @@ contact me then you can best do this by joining [my Discord server] or
 
 🔗 &nbsp;**Contact with me**
 <p align="left">
-<a href="https://discord.gg/kahpedostluklar" target"blank_"><img src="https://img.shields.io/badge/247%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
-<a href="https://open.spotify.com/user/31fhly4eh45jbfobeepxtj4e2eci" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=black"></a>
-<a href="https://instagram.com/sramtanxs" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://discord.gg/kahpedostluklar" target"_blank"><img src="https://img.shields.io/badge/247%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
+<a href="https://open.spotify.com/user/31fhly4eh45jbfobeepxtj4e2eci" target"_blank"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=black"></a>
+<a href="https://instagram.com/sramtanxs" target"_blank"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
 </br><img src="https://komarev.com/ghpvc/?username=vSramtaN&color=dc143c"/>
  </br>
 
