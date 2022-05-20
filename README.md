@@ -3,7 +3,7 @@
 
 I'm mostly active on [Discord] and [Instagram] so if you want to log in again
 contact me then you can best do this by joining [my Discord server] or
-[contact via dm SrâmtaN#0247
+[contact via dm SrâmtaN#0247]
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/937386133023772712)](https://discord.com/users/937386133023772712)
 
