@@ -25,7 +25,7 @@
 
 🔗 &nbsp; **Software Languages**
 <p align="left">  
-<a href="#" target="_blank"> <img src="https://icon-library.com/icon/javascript-icon-png-23.html" alt="JavaScript" width="40" height="40"/> </a>
+<a href="#" target="_blank"> <img src="https://www.hiclipart.com/free-transparent-background-png-clipart-txirr" alt="JavaScript" width="40" height="40"/> </a>
 <a href="#" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="HTML" width="40" height="40"/> </a>
 <a href="#" target="_blank"> <img src="https://static.cdnlogo.com/logos/c/18/css.svg" alt="css" width="40" height="40"/> </a>
 </br>
